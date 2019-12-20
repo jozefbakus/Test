@@ -7,13 +7,13 @@
     <artifactId>test-project</artifactId>
     <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <url>https://github.com/jozefbakus/Test</url>
     <inceptionYear>2019</inceptionYear>
+    <url>https://github.com/jozefbakus/Test</url>
 
     <scm>
         <connection>scm:git:git://github.com/jozefbakus/Test.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:jozefbakus/Test.git</developerConnection>
-        <url>http://github.com/jozefbakus/Test/tree/master</url>
+        <developerConnection>scm:git:ssh://github.com/jozefbakus/Test.git</developerConnection>
+        <url>https://github.com/jozefbakus/Test/tree/master</url>
         <tag>HEAD</tag>
     </scm>
 
