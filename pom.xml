@@ -9,6 +9,7 @@
     <inceptionYear>2019</inceptionYear>
     <url>https://github.com/jozefbakus/Test</url>
 
+
     <scm>
         <connection>scm:git:https://github.com/jozefbakus/Test.git</connection>
         <developerConnection>scm:git:ssh://github.com/jozefbakus/Test.git</developerConnection>
