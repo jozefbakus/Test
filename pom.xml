@@ -11,9 +11,9 @@
     <url>https://github.com/jozefbakus/Test</url>
 
     <scm>
-        <connection>scm:git:git://github.com/jozefbakus/Test.git</connection>
-        <developerConnection>scm:git:ssh://github.com/jozefbakus/Test.git</developerConnection>
-        <url>https://github.com/jozefbakus/Test/tree/master</url>
+        <connection>scm:git:https://github.com/jozefbakus/Test.git</connection>
+        <developerConnection>scm:git:https://github.com/jozefbakus/Test.git</developerConnection>
+        <url>https://github.com/jozefbakus/Test/tree/develop</url>
         <tag>HEAD</tag>
     </scm>
 
