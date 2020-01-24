@@ -5,7 +5,7 @@
     <groupId>com.testgroup</groupId>
     <artifactId>test-project</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <inceptionYear>2019</inceptionYear>
     <url>https://github.com/jozefbakus/Test</url>
 
@@ -13,7 +13,7 @@
         <connection>scm:git:https://github.com/jozefbakus/Test.git</connection>
         <developerConnection>scm:git:https://github.com/jozefbakus/Test.git</developerConnection>
         <url>https://github.com/jozefbakus/Test/tree/develop</url>
-        <tag>v0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <licenses>
